@@ -1,0 +1,1 @@
+location.href = 'https://justpaste.it/7x4h7'

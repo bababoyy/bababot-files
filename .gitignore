@@ -1,0 +1,10 @@
+jsconfig.json
+devilplan/*.js 
+devilplan/*.cpp
+devilplan/*.exe
+devilplan/*.map.js
+devilplan/*.ts
+devilplan/*.bak
+devilplan/*.dll
+devilplan/build.gradle
+teststuff/*
